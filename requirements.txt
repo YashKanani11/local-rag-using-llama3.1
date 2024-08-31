@@ -1,0 +1,5 @@
+langchain
+pypdf
+chromadb
+pytest
+langchain_chroma
